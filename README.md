@@ -27,4 +27,3 @@ In this series of exercises, we practice various refactoring techniques. You may
 Please submit your work to Gradescope.
 
 - Submit your work for Exercise 21 to 26 at [Refactoring - other refactoring](https://www.gradescope.com/courses/206382/assignments/1025910)
-# other-refactor-techniques
